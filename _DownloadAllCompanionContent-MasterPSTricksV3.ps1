@@ -1,0 +1,2 @@
+﻿#Download all of the working content to your machine to a ZIP File for Master PowerShell Tricks V3
+Invoke-RestMethod "https://api.github.com/repos/mvpdays/masterpowershelltricksv1/zipball/master" -outfile "C:\temp\masterpowershelltricksv1.zip"
