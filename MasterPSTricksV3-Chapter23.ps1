@@ -1,0 +1,1 @@
+﻿(Get-Date).AddDays(39).DayOfWeek  
